@@ -4,4 +4,4 @@
 - 2차 평가: 8 등
 
 발표 영상
-https://youtu.be/v02lxHB0BEo
+:https://youtu.be/v02lxHB0BEo
